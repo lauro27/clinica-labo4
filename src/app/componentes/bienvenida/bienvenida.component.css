@@ -1,0 +1,4 @@
+.content{
+    background-image: linear-gradient(to bottom, lightgreen, lightblue);
+    display:flex;
+}
